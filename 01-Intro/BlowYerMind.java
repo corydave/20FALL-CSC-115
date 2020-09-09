@@ -6,6 +6,19 @@ public class BlowYerMind {
 
     public static void main (String[] args) {
 
+        System.out.print("Hi Dave---");
+        System.out.println("Hi Dave");
+        System.out.println("Hi Dave---");
+        
+        System.out.println();
+        
+        // This is called the 'EMPTY STRING'
+        System.out.println(""); // Don't need ""
+        
+        System.out.println("Hi Dave---");
+
+        
+        
         System.out.println(2);    // 2 (integer)
         System.out.println("2");  // 2 (String - characters
         System.out.println(2.1);  // 2.1 (double/decimal)
