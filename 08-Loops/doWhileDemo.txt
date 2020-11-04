@@ -1,0 +1,15 @@
+String password = scanner.nextLine();
+
+while (password.equals("p@$$W0rD")) {
+  System.out.println("Entry permitted");
+}
+
+do {
+  System.out.println("Entry permitted");
+} while (password.equals("p@$$W0rD"));
+
+
+
+
+CARTOON: https://i.redd.it/6wksqjmmyw321.jpg
+
