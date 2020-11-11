@@ -26,7 +26,11 @@ public class RandomDemo {
 
 
 
-
+        // To generate a number between 0 and 100:
+        int randNum01 = rand.nextInt(101);
+        
+        // To generate a number between 1 and 100:
+        int randNum02 = rand.nextInt(100) + 1;
 
 
 
